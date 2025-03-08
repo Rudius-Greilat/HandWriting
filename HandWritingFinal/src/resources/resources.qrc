@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/dictionary">
+        <file>default.txt</file>
+    </qresource>
+<qresource prefix="/images">
+        <file>settings.png</file>
+    </qresource>
+</RCC>
